@@ -1,0 +1,29 @@
+.main{
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border-left: 1.5px solid #c4a4ff;
+    border-right: 1.5px solid #c4a4ff;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #6f42c1;
+    padding: 14px;
+    color: white;
+  }
+
+  td{
+    padding: 20px;
+    box-shadow: 0 4px 2px -2px #a16eff;
+  }
+
+@media screen and (max-width:500px) {
+  
+}
